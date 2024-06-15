@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mijn Persoonlijke Webpagina</title>
+    <style>
+        body {
+            background-color: black;
+            color: white;
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            text-align: center;
+            padding: 20px;
+            background-color: #333;
+        }
+        h1 {
+            margin: 0;
+            font-size: 2em;
+        }
+        section {
+            padding: 20px;
+        }
+        .trainingsschema {
+            margin-bottom: 20px;
+        }
+        .trainingsschema h2 {
+            color: #ff6600;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Welkom op mijn persoonlijke webpagina</h1>
+    </header>
+    <section>
+        <div class="trainingsschema">
+            <h2>Calisthenics Trainingsschema</h2>
+            <p>Hier zijn mijn favoriete calisthenics trainingsschema's:</p>
+            <!-- Inhoud van het geüploade bestand hier invoegen -->
+            <div>
+                <!-- Voorbeeld van een trainingsschema uit je bestand -->
+                <!-- Hier volgt een voorbeeld van de inhoud die we uit het bestand halen -->
+                <p>Train calisthenics:</p>
+                <img src="https://www.inspireusafoundation.org/wp-content/uploads/2022/07/calisthenics-upper-body-back.jpg" alt="Calisthenics Trainingsschema">
+            </div>
+        </div>
+        <div class="hobbies">
+            <h2>Mijn Hobby's</h2>
+            <ul>
+                <li>Hobby 1 - Korte beschrijving</li>
+                <li>Hobby 2 - Korte beschrijving</li>
+                <li>Hobby 3 - Korte beschrijving</li>
+            </ul>
+        </div>
+    </section>
+</body>
+</html>
